@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.0.1] (2017-04-30)
+
+**Fixed bugs:**
+
+- Deploying a sys problem
+ 
+**Closed issues:**
+
+- Fixed and closed issues 
+- Removed logs.
+
+**Improvements:**
+
+- system call changes
+
 ## [1.0] (2017-04-12)
 
 **Fixed bugs:**
