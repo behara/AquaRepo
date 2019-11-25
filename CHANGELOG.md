@@ -4,7 +4,8 @@
 
 **Fixed bugs:**
 
-- Unable to deploy due to git checkout error 
+- Unable to deploy due to git checkout error
+ 
 **Closed issues:**
 
 - Does not support OS without systemctl 
