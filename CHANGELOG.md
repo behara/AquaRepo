@@ -1,5 +1,20 @@
 # Change Log
 
+2.0.0 (2017-05-30)
+===============================
+
+Module changes
+--------------
+
+* The CVE-2019-12222 which was resolved.
+* The plugins of this type were buggy.
+* `ip` module is an independent one.
+
+Core changes
+------------
+
+* This tag was a bug in the module `delta`
+
 1.0.3 (2017-05-20)
 ===============================
 
