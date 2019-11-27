@@ -1,5 +1,13 @@
 # Change Log
 
+1.0.4 (2017-05-20)
+===============================
+
+Module changes
+--------------
+
+* The `dom` plugin has been successfully upgraded.
+
 2.0.0 (2017-05-30)
 ===============================
 
