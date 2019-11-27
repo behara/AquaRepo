@@ -1,27 +1,5 @@
 # Change Log
 
-1.0.3 (2017-05-20)
-===============================
-
-Module changes
---------------
-
-* The `admin` plugin has CVE-2201-9991 which was resolved.
-* `tld` plugin has CVE-2201-9999. This has been mirrored in several plugins of this type.
-* CVE-2201-9999 was seen in `ip` module [[#1631][]]
-
-Core changes
-------------
-
-* This tag was a bug in the module `tilda`
-
-[#1599]: https://github.com/sopel-irc/sopel/pull/1599
-[#1608]: https://github.com/sopel-irc/sopel/pull/1608
-[#1612]: https://github.com/sopel-irc/sopel/pull/1612
-[#1630]: https://github.com/sopel-irc/sopel/pull/1630
-[#1631]: https://github.com/sopel-irc/sopel/pull/1631
-
-
 ## [1.0.2] (2017-05-20)
 
 **Fixed bugs:**
